@@ -1,0 +1,4 @@
+Source Name,Owner,Format,Frequency,Department,Used In Reports
+POS System,Sales Team,CSV,Daily,Sales,Daily Sales Summary
+Inventory DB,Ops Team,PostgreSQL,Hourly,Operations,Stock Availability
+CRM,Marketing,JSON,Weekly,Marketing,Customer Segments
