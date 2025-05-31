@@ -1,0 +1,5 @@
+Quarter,Initiative,Priority,Owner
+Q1,Data Inventory & Audit,High,Data Manager
+Q2,ETL Automation & Central Storage,High,Data Engineer
+Q3,BI Tool Rollout,Medium,BI Analyst
+Q4,Implement Data Catalog & Governance,Medium,Data Manager
